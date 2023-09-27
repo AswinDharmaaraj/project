@@ -1,0 +1,62 @@
+.Name{
+    border-width: 1px;
+    border-radius: 15px;
+    padding: 10px;
+    transition: padding .3s;
+}
+.Name:hover{
+    padding: 30px;
+}
+.Text{
+    border-width: 1px;
+    border-radius: 15px;
+    padding: 10px;
+    transition: padding .3s;
+
+}
+.Text:hover{
+    padding: 30px;
+}
+.Date{
+    border-width: 1px;
+    border-radius: 15px;
+    padding: 10px;
+    transition: padding .3s;
+}
+.Date:hover{
+    padding: 30px;
+}
+
+
+.b1{
+    border: none;
+    border-width: 1px;
+    border-radius: 15px;
+    padding: 10px;
+    background:green;
+    color: white;
+    font-weight: bold;
+
+}
+.b1:active{
+    opacity: 50%;
+   
+}.b2{
+    border: none;
+    border-width: 1px;
+    border-radius: 15px;
+    padding: 10px;
+    background: blue;
+    color: white;
+    font-weight: bold;
+    margin-left: 1%;
+
+}
+.header {
+    font-size: 50px;
+    font-weight: 600;
+    background-image: linear-gradient(to left, #553c9a, #b393d3);
+    color: transparent;
+    background-clip: text;
+    -webkit-background-clip: text;
+  }
